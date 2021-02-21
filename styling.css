@@ -31,3 +31,6 @@ p>span{
 div>span{
   background-color: green
 }
+div,p>span{
+  background-color: green
+}
