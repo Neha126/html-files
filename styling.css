@@ -1,0 +1,33 @@
+p{
+  background-color: yellow;
+}
+.p1{
+  color:red;
+}
+.p2{
+  color: green;
+}
+#pfirst{
+  font-size: 16px
+}
+#psecond{
+  font-size: 18px
+}
+span{
+ background-color: cyan
+}
+div{
+  background-color: blue
+}
+/*.pspan{
+  background-color: grey;
+}
+.divspan{
+  background-color: green;
+}*/
+p>span{
+  background-color: grey
+}
+div>span{
+  background-color: green
+}
