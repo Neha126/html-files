@@ -4,3 +4,11 @@ color: red
 a{
   text-align: right
 }
+.container{
+align-items: center;
+}
+p{
+  color: red;
+  display: flex;
+  align-items: center;
+}

@@ -26,11 +26,14 @@ div{
   background-color: green;
 }*/
 p>span{
-  background-color: grey
+  background-color: grey;
 }
 div>span{
   background-color: green
 }
-div,p>span{
+div p span {
+  background-color: black
+}
+div span{
   background-color: green
 }
