@@ -1,14 +1,20 @@
 h1{
 color: red
+text-align:center;
 }
 a{
   text-align: right
 }
 .container{
-align-items: center;
+  display: flex;
+  align-items: center;
+  flex-direction: row;
 }
-p{
-  color: red;
+.content{
+  display: flex;
+  align-items: center;
+}
+.contents{
   display: flex;
   align-items: center;
 }
